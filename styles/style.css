@@ -66,3 +66,36 @@ nav{
     font-weight: 400;
     font-size: 16px;
 }
+
+/* section decoration */
+.My-Plans{
+    /* margin-top: 130px; */
+    /* margin-left: 277px; */
+    /* text-align: center; */
+}
+.section-title{
+    /* text-align: center; */
+    /* margin-top: 150px; */
+}
+.skill{
+
+}
+.skill-container{
+    display: flex;
+    margin-top: 130px;
+    margin-left: 277px;
+    gap: 86px;
+}
+.skill-title{
+    font-weight: 700;
+    font-size: 15px;
+    /* font-family: 'Work Sans', sans-serif; */
+    font-family: 'Work Sans', sans-serif;
+    padding-top: 10px;
+}
+.skill-description{
+    color: #737272;
+    font-weight: 500;
+    font-size: 16px;
+    margin-top: 0;
+}
