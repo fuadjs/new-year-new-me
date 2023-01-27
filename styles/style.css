@@ -7,6 +7,8 @@ nav{
     text-align: right;
     padding-right: 230px;
 }
+
+/* h1-decoration. */
 .nav-title{
     font-weight: 700;
     font-size: 65px;
@@ -14,6 +16,9 @@ nav{
     padding-left: 600px;
     font-family: 'Work Sans', sans-serif;
 }
+
+/* peragraph-decoration.. */
+
 .nav-description{
     color: #444343;
     /* padding: 20px 0 0; */
@@ -21,4 +26,26 @@ nav{
     font-weight: 400;
     font-size: 16px;
     font-family: 'Work Sans', sans-serif;
+}
+
+/* button-decoration.. */
+.primary-button{
+    margin-top: 32px;
+    width: 160px;
+    height: 64px;
+    background-color: rgb(255, 115, 0);
+    border: 0;
+    border-radius: 5px;
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 17px;
+}
+
+/* ,,,,,,,,,,,,/,,,,, */
+
+/* main site decoration..(step-2). */
+
+
+.main{
+    
 }
