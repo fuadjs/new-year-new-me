@@ -18,7 +18,6 @@ nav{
 }
 
 /* peragraph-decoration.. */
-
 .nav-description{
     color: #444343;
     /* padding: 20px 0 0; */
@@ -27,7 +26,6 @@ nav{
     font-size: 16px;
     font-family: 'Work Sans', sans-serif;
 }
-
 /* button-decoration.. */
 .primary-button{
     margin-top: 32px;
@@ -40,12 +38,7 @@ nav{
     font-weight: 600;
     font-size: 17px;
 }
-
-/* ,,,,,,,,,,,,/,,,,, */
-
-/* main site decoration..(step-2). */
-
-
+/* main :step2.. */
 .main{
-    
+
 }
