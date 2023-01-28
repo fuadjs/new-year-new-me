@@ -99,6 +99,7 @@ nav{
     font-size: 16px;
     margin-top: 0;
 }
+/* section.... */
 .section{
     background-image: url('../images/watch.png');
     background-repeat: no-repeat;
@@ -128,4 +129,41 @@ nav{
     color: #F15B22;
     border-radius: 5px;
     border: 0;
+}
+/* footer... */
+/* contact-styles */
+.contact{
+    display: flex;
+    gap: 330px;
+    background: #151414;
+    margin-top: 130px;
+    /* margin-left: 200px; */
+    width: 1600px;
+    height: 577px;
+    color: #F8F8F8;
+    font-family: 'Work Sans', sans-serif;
+}
+.footer-title{
+    text-align: left;
+    padding-top: 130px;
+    padding-left: 230px;
+    padding-right: 650px;
+}
+.ftr-title{
+
+}
+.icons{
+    padding-top: 20px;
+}
+h3{
+    font-weight: 700;
+    font-size: 35px;
+}
+p{
+    font-weight: 500;
+    font-size: 16px
+}
+li{
+    font-weight: 400;
+    font-size: 16px;
 }
