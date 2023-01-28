@@ -134,7 +134,7 @@ nav{
 /* contact-styles */
 .contact{
     display: flex;
-    gap: 330px;
+    gap: 300px;
     background: #151414;
     margin-top: 130px;
     /* margin-left: 200px; */
@@ -147,7 +147,7 @@ nav{
     text-align: left;
     padding-top: 130px;
     padding-left: 230px;
-    padding-right: 650px;
+    padding-right: 230px;
 }
 .ftr-title{
 
@@ -166,4 +166,37 @@ p{
 li{
     font-weight: 400;
     font-size: 16px;
+}
+.contact a{
+    text-decoration: none;
+}
+/* .......... */
+.form-contact{
+    padding-top: 130px;
+    padding-right: 350px
+}
+.ftr-title{
+    width: 123px;
+    height: 29px;
+    font-weight: 600;
+    font-size: 20px;
+}
+input{
+    height: 20px;
+    /* width: 20px; */
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-color: #FFFFFF;
+    border-radius: 5px;
+    background-color: #151414;
+    color: #F3F3F3;
+    
+    /* padding-left: 20px; */
+}
+.button-primary{
+    width: 150.11px;
+    height: 40px;
+    margin-top: 16px;
+    border-radius: 5px;
+    color: #F15B22;
 }
