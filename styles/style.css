@@ -69,27 +69,27 @@ nav{
 
 /* section decoration */
 .My-Plans{
-    /* margin-top: 130px; */
-    /* margin-left: 277px; */
-    /* text-align: center; */
+
 }
 .section-title{
-    /* text-align: center; */
-    /* margin-top: 150px; */
+    font-weight: 700;
+    font-size: 30px;
+    padding-left: 600px;
+    padding-top: 130px;
+    font-family: 'Work Sans', sans-serif;
 }
 .skill{
 
 }
 .skill-container{
     display: flex;
-    margin-top: 130px;
-    margin-left: 277px;
+    /* margin-top: 130px; */
+    margin-left: 320px;
     gap: 86px;
 }
 .skill-title{
     font-weight: 700;
     font-size: 15px;
-    /* font-family: 'Work Sans', sans-serif; */
     font-family: 'Work Sans', sans-serif;
     padding-top: 10px;
 }
@@ -98,4 +98,34 @@ nav{
     font-weight: 500;
     font-size: 16px;
     margin-top: 0;
+}
+.section{
+    background-image: url('../images/watch.png');
+    background-repeat: no-repeat;
+    width: 1140px;
+    height: 300px;
+    text-align: left;
+    margin-left: 230px;
+    margin-top: 130px;
+}
+.section-form{
+    padding-top: 60px;
+    padding-left: 65px;
+    padding-right: 700px;
+}
+.section-header{
+    font-weight: 700;
+    font-size: 25px;
+    font-family: 'Work Sans', sans-serif;
+    color: #FFFFFF;
+}
+.btn-primary{
+    margin-top: 25px;
+    padding: 20px 36px;
+    font-weight: 600;
+    font-size: 15px;
+    font-family: 'Work Sans', sans-serif;
+    color: #F15B22;
+    border-radius: 5px;
+    border: 0;
 }
